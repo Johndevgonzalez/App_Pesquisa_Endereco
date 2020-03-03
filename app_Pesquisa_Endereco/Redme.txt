@@ -1,0 +1,8 @@
+Com base no cep, se faz uma pesquisa em uma api de consultas de CEP
+utilizando XMLHttpRequest para recueprar os dados
+requisições assincronas para o api
+Projeto utiliza bootstrap
+Efeito onblur
+API utilizada https://viacep.com.br/ JSON / viacep.com.br/ws/01001000/json/
+ 
+
